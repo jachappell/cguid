@@ -2,7 +2,7 @@
 Tags: guid, rss
 Contributors: jachappell
 Requires at least: 3.0 
-Tested up to: 4.0
+Tested up to: 4.0.1
 Stable tag: 0.1
 
 The cguid Wordpress plugin appends the post's post date to its guid in
