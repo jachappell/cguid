@@ -19,5 +19,5 @@ this).
 3. Go to the Plugins page in your WordPress Administration area and click
 'Activate' for Custom GUID.
 
-http://www.storage-b.com/php/284
+https://www.storage-b.com/php/284
 
